@@ -8,14 +8,13 @@ This project predicts house prices based on property and location features using
 
 ### Dataset
 The dataset contains housing features such as area, bedrooms, bathrooms, parking, and amenities.
-Data was collected from a public real estate dataset.
+Data was collected from a dataset at kaggle
 
 ### Machine Learning Models Used
 - Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
-
-Random Forest was selected as the final model after hyperparameter tuning.
+- 
 
 ### How to Run the Project
 1. Clone the repository
