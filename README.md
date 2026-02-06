@@ -13,8 +13,7 @@ Data was collected from a dataset at kaggle
 ### Machine Learning Models Used
 - Linear Regression
 - Decision Tree Regressor
-- Random Forest Regressor
-- 
+- Random Forest Regressor 
 
 ### How to Run the Project
 1. Clone the repository
