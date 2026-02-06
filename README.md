@@ -21,5 +21,3 @@ Random Forest was selected as the final model after hyperparameter tuning.
 1. Clone the repository
 2. Install required libraries
    pip install -r requirements.txt
-3. Run the Streamlit app
-   streamlit run app.py
